@@ -113,10 +113,10 @@ return numpy.array(bag)
 
 
 def chat():
-    print("Start talking with the bot (type quit to stop)!")
+    print("Start talking with the bot (type stop to quit)!")
     while True:
         inp = input("You: ")
-        if inp.lower() == "quit":
+        if inp.lower() == "stop":
             break
 
         results = model.predict([bag_of_words(inp, words)])
