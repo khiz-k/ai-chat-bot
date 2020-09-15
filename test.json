@@ -8,7 +8,9 @@
         "Is anyone there?",
         "Hello",
         "Good day",
-        "Whats up"
+        "Whats up", 
+        "Sup", 
+        "Yo"
       ],
       "responses": [
         "Hello!",
@@ -33,12 +35,11 @@
       "tag": "date",
       "patterns": [
         "how old",
-        "how old is tim",
         "what is your age",
         "how old are you",
         "age?"
       ],
-      "responses": ["I am 18 years old!", "18 years young!"],
+      "responses": ["I am N/A years old!", "N/A years young!"],
       "context_set": ""
     },
     {
