@@ -2,4 +2,4 @@
 
 Testing ML via a chat bot for general questioning and some pizza shop questions.
 
-Trained via the json file.
+Trained via test.json.
