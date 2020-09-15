@@ -1,3 +1,3 @@
 # ai-chat-bot
 
-A chat bot for a pizza shop.
+Testing ML via a chat bot for general questioning and some pizza shop questions.
